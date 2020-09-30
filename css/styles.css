@@ -8,7 +8,7 @@ main {
 	align-items: center;
 	width: 100vw;
 	position: absolute;
-	top: 30%;
+	top: 22%;
 }
 
 .nav-items {
@@ -92,6 +92,11 @@ main {
 
 #search .btn[type="button"] {
 	grid-area: button2;
+}
+
+main p {
+	padding-top: 50px;
+	font-size: 0.85em;
 }
 
 footer {
