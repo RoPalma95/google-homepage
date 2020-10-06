@@ -67,7 +67,6 @@ main {
 	line-height: 0;
 }
 
-
 #search .btn {
 	width: 50%;
 	display: block;
@@ -108,7 +107,6 @@ footer {
 	color: #79888f;
 	font-size: 0.85em;
 }
-
 
 .links {
 	display: flex;
